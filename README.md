@@ -1,3 +1,7 @@
 # podstawy_sztucznej_inteligencji
 
-Programy napisane na zajęcia "Podstawy sztucznej inteligencji" prowadzonych na WMI UJ w semestrze letnim w roku akademickim 2022/2023.
+Programy stworzone w ramach zajęć "Podstawy sztucznej inteligencji".
+
+WMI UJ 
+semestr letni
+rok akademicki 2022/2023
